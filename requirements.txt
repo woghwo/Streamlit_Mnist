@@ -1,0 +1,4 @@
+# python=3.11
+streamlit
+streamlit_drawable_canvas
+numpy==1.26.4
